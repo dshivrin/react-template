@@ -1,2 +1,2 @@
 # react-template
-react template with parcel-bundler and babel
+React template with parcel-bundler and babel.
